@@ -1,4 +1,4 @@
-<img width="1701" height="705" alt="image" src="https://github.com/user-attachments/assets/81f30e2d-fdfc-479d-8564-5bc5a098eefb" /># HuongDanPayoo
+
 # Kế hoạch tích hợp Payoo Payment Gateway vào Node.js
 
 > Phân tích từ mã mẫu C# (.NET) — `IntegrationSampleCode_JS_V2`
